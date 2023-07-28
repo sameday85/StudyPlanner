@@ -115,7 +115,8 @@ $(document).ready(function() {
     <div id = "hint">
         <p>Please use reasonable inputs, or else weird suggestions will be returned.
         <br> Latest update: 7/26/23. Made by Team 15: Victor, Jeffery, Aric, and Bryan.
-        <br> Copyright 2023: Study Planner™</p>
+        <br> Copyright 2023: Study Planner™
+        <br> Aric is testing this lol please I need a life</p>
     </div>
 </div    
 </body>
