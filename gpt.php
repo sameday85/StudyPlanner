@@ -2,7 +2,7 @@
 
 function talk2chatGPT(string $question): string {
     
-    $apiKey = "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";
+    $apiKey = "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";
     $url = 'https://api.openai.com/v1/chat/completions';  
     
     $headers = array(
